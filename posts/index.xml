@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lucas Mei - Linguistics</title>
+    <link>https://lucasmei.github.io/posts/</link>
+    <description>Recent content in Posts on Lucas Mei - Linguistics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sat, 29 Jul 2023 12:34:02 -0400</lastBuildDate><atom:link href="https://lucasmei.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expectations</title>
+      <link>https://lucasmei.github.io/posts/expectations/</link>
+      <pubDate>Sat, 29 Jul 2023 12:34:02 -0400</pubDate>
+      
+      <guid>https://lucasmei.github.io/posts/expectations/</guid>
+      <description>This page is mainly for resume/portfolio purposes. Anything academic related will be posted, referred to, and updated here.</description>
+    </item>
+    
+  </channel>
+</rss>
