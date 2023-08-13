@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on Lucas Mei - Linguistics</title>
-    <link>https://lucasmei.github.io/</link>
+    <link>DEPLOY_PRIME_URL/</link>
     <description>Recent content in Welcome on Lucas Mei - Linguistics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 29 Jul 2023 12:34:02 -0400</lastBuildDate><atom:link href="https://lucasmei.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jul 2023 12:34:02 -0400</lastBuildDate><atom:link href="DEPLOY_PRIME_URL/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expectations</title>
-      <link>https://lucasmei.github.io/posts/expectations/</link>
+      <link>DEPLOY_PRIME_URL/posts/expectations/</link>
       <pubDate>Sat, 29 Jul 2023 12:34:02 -0400</pubDate>
       
-      <guid>https://lucasmei.github.io/posts/expectations/</guid>
+      <guid>DEPLOY_PRIME_URL/posts/expectations/</guid>
       <description>This page is mainly for resume/portfolio purposes. Anything academic related will be posted, referred to, and updated here.</description>
     </item>
     
     <item>
       <title>About Me!</title>
-      <link>https://lucasmei.github.io/aboutme/</link>
+      <link>DEPLOY_PRIME_URL/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lucasmei.github.io/aboutme/</guid>
+      <guid>DEPLOY_PRIME_URL/aboutme/</guid>
       <description>FAQ What&amp;rsquo;s Linguistics?
 Linguistics is the study of the science of human language. Whether it be how we communicate, meaning across dialects, how sentences are formed, and how we interpret meaning, it&amp;rsquo;s all Linguistics. I am more interested in the technical side of Linguistics with a willingness to expand my understanding. How did you discover Linguistics?
 I didn&amp;rsquo;t know what I was doing when I applied here. I decided last minute to ditch computer science and go for the only option I chose that wasn&amp;rsquo;t computer science.</description>
@@ -29,10 +29,10 @@ I didn&amp;rsquo;t know what I was doing when I applied here. I decided last min
     
     <item>
       <title>Skills</title>
-      <link>https://lucasmei.github.io/skills/</link>
+      <link>DEPLOY_PRIME_URL/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lucasmei.github.io/skills/</guid>
+      <guid>DEPLOY_PRIME_URL/skills/</guid>
       <description>Languages Most comfortable English 🇨🇦 (Native) Spanish 🇨🇱 (approx. B1) Studying (passively) Japanese 🇯🇵 (N4-N5) French 🇨🇦 (A2) Programming R Language Python Markup Languages Hugo Framework Experience with Bootstrap, HTML, JS, and CSS through various personal projects LaTeX Markdown Techincal Typing (average over 100wpm) Command line (desktop Linux/MacOS) Technical Support (Mac/Windows/Linux) Comfortable in terminal (alacritty + tmux) Comfortable with GitHub </description>
     </item>
     
