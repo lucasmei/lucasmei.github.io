@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>DEPLOY_PRIME_URL/posts/expectations/</loc>
+    <loc>https://lucasmei.github.io/posts/expectations/</loc>
     <lastmod>2023-07-29T12:34:02-04:00</lastmod>
   </url><url>
-    <loc>DEPLOY_PRIME_URL/posts/</loc>
+    <loc>https://lucasmei.github.io/posts/</loc>
     <lastmod>2023-07-29T12:34:02-04:00</lastmod>
   </url><url>
-    <loc>DEPLOY_PRIME_URL/</loc>
+    <loc>https://lucasmei.github.io/</loc>
     <lastmod>2023-07-29T12:34:02-04:00</lastmod>
   </url><url>
-    <loc>DEPLOY_PRIME_URL/aboutme/</loc>
+    <loc>https://lucasmei.github.io/aboutme/</loc>
   </url><url>
-    <loc>DEPLOY_PRIME_URL/categories/</loc>
+    <loc>https://lucasmei.github.io/categories/</loc>
   </url><url>
-    <loc>DEPLOY_PRIME_URL/skills/</loc>
+    <loc>https://lucasmei.github.io/skills/</loc>
   </url><url>
-    <loc>DEPLOY_PRIME_URL/tags/</loc>
+    <loc>https://lucasmei.github.io/tags/</loc>
   </url>
 </urlset>
